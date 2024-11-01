@@ -1,0 +1,9 @@
+<h4>1.1.0</h4>
+<ul>
+<li>Add plugin link to TheCartPress sidebar menu</li>
+<li>Use tcp.php</li>
+</ul>
+<h4>1.0</h4>
+<ul>
+<li>First release</li>
+</ul>
